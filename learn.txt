@@ -1,2 +1,2 @@
-zhen ta ma gen ge sha zi yi yang 
-ta ma de gen ge sha zi yi yang 
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
